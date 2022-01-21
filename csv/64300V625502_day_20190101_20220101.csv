@@ -1,0 +1,1 @@
+Trafikkregistreringspunkt,Navn,Vegreferanse,Fra,Til,Dato,Felt,Volum,Dekningsgrad (%),Antall timer total,Antall timer inkludert,Antall timer ugyldig,Ikke gyldig lengde,Lengdekvalitetsgrad (%),"< 5,6m",">= 5,6m","5,6m - 7,6m","7,6m - 12,5m","12,5m - 16,0m",">= 16,0m","16,0m - 24,0m",">= 24,0m"
